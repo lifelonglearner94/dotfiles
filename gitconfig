@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marcel.kn1994@hotmail.de
+	name = Marcel Knauf
